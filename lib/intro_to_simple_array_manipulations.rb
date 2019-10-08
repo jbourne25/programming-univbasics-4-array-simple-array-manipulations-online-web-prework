@@ -30,7 +30,10 @@ def using_insert(list_of_programming_languages, another_language)
   list_of_programming_languages.insert(4, another_language)
 end
 
-using_uniq 
+def using_uniq(haircuts, new_array)
+  haircuts.using_uniq
+end
+
 
 
 
