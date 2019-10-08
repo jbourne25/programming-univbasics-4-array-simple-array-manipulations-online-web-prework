@@ -3,7 +3,7 @@ def using_push(colors_in_the_rainbow, next_color)
 end
 
 def using_unshift(new_neighborhood)
-   new_neighborhood.first("Staten Island")
+   using_unshift.first("Staten Island")
 end
 
   
