@@ -11,6 +11,7 @@ def using_pop(continents)
 end
 
 def pop_with_args(dog_breeds)
+  small_dogs = "chih"
   dog_breeds.pop(small_dogs)
 end
 
