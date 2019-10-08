@@ -8,6 +8,7 @@ end
 
 def using_pop(continents,deleted_string)
   continents.pop(deleted_string)
+  continents
 end
   
   
