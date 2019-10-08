@@ -32,6 +32,7 @@ end
 
 def using_uniq(haircuts, new_array)
   haircuts.uniq!
+  new_array
 end
 
 
